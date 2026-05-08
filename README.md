@@ -1,5 +1,5 @@
 # agent-fiduciary-duties
-## Transforming Steve Vitka's Taxonomy of Duties for Net Fiduciaries into ToIP Output of Appropriate Scope
+## Transforming "Taxonomy of Duties for Net Fiduciaries" into ToIP Output of Appropriate Scope
 
 Top To Do: import the following Google Doc into a graph of the various duties that proposed in it and beyond, with
 commenting and suggested edits for each duty, and massage the text to confrom with other ToIP initiatives. 
